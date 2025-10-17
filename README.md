@@ -37,25 +37,9 @@
 
 ---
 
-### 🏆 Achievements
+### 🧠 My Books
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-### 🧠 Fun Projects
-
-- 🪶 [My Poetry Blog](#)
-- 🕹️ [Mini Game Built with JS](#)
-- 🧩 [Compiler Simulation Project](#)
+- 🪶 [My Poetry Blog](https://iamristaf.xyz/entrobooks.html)
 
 ---
 
