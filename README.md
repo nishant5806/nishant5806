@@ -16,16 +16,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/nishant5806" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/nishant5806" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:codobaby@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,7 +32,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,php,kotlin,git,github,linux,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,php,kotlin,git,github,linux,vscode" />
 </p>
 
 ---
